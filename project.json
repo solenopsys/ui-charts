@@ -1,4 +1,5 @@
 {
+  "name": "charts",
   "projectType": "library",
   "sourceRoot": "libs/fui/charts/src",
   "prefix": "hyperconverged",
