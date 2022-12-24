@@ -1,6 +1,10 @@
 {
   "name": "@solenopsys/uimatrix-charts",
   "version": "0.0.1",
+  "dependencies": {
+    "echarts": "^5.4.0",
+    "ngx-echarts": "^15.0.1"
+  },
   "scripts": {
     "test": "node index.js",
     "build": "tsc -p tsconfig.lib.json"

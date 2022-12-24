@@ -1,1 +1,1 @@
-export * from './lib/fui-charts.module';
+export * from './lib/ui-charts.module';

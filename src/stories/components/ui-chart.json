@@ -1,0 +1,12 @@
+{
+  "name": "Chart",
+  "description": "Chart",
+  "component": "ChartComponent",
+  "package": "@solenopsys/uimatrix-charts",
+  "io": {
+    "config": {
+      "directions": ["input"],
+      "type": "CodeEditor"
+    }
+  }
+}
