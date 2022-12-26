@@ -11,4 +11,6 @@ export class ChartComponent {
 
   @Input()
   options!: EChartsOption;
+  constructor() {
+  }
 }
