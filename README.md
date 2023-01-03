@@ -1,6 +1,6 @@
 ## UIMATRIX Charts Library
 
-@solenopsys/uimatrix-charts*
+*@solenopsys/uimatrix-charts*
 
 Charts module for UIMATRIX framework.
 
