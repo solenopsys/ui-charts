@@ -1,5 +1,5 @@
 {
-  "name": "@solenopsys/uimatrix-charts",
+  "name": "@solenopsys/ui-charts",
   "version": "0.0.1",
   "dependencies": {
     "echarts": "^5.4.0",

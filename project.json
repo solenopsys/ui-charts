@@ -1,16 +1,16 @@
 {
-  "name": "charts",
+  "name": "ui-charts",
   "projectType": "library",
-  "sourceRoot": "packages/uimatrix/charts/src",
+  "sourceRoot": "packages/uimatrix/ui-charts/src",
   "prefix": "ui",
   "targets": {
     "test": {
       "executor": "@nrwl/jest:jest",
       "outputs": [
-        "coverage/packages/uimatrix/charts"
+        "coverage/packages/uimatrix/ui-charts"
       ],
       "options": {
-        "jestConfig": "packages/uimatrix/charts/jest.config.js",
+        "jestConfig": "packages/uimatrix/ui-charts/jest.config.js",
         "passWithNoTests": true
       }
     },
@@ -18,8 +18,8 @@
       "executor": "@nrwl/linter:eslint",
       "options": {
         "lintFilePatterns": [
-          "packages/uimatrix/charts/src/**/*.ts",
-          "packages/uimatrix/charts/src/**/*.html"
+          "packages/uimatrix/ui-charts/src/**/*.ts",
+          "packages/uimatrix/ui-charts/src/**/*.html"
         ]
       },
       "outputs": [

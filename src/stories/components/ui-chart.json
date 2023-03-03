@@ -2,7 +2,7 @@
   "name": "Chart",
   "description": "Chart",
   "component": "ChartComponent",
-  "package": "@solenopsys/uimatrix-charts",
+  "package": "@solenopsys/ui-charts",
   "io": {
     "options": {
       "directions": [
