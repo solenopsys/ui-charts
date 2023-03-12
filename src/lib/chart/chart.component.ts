@@ -4,7 +4,7 @@ import {EChartsOption, format} from 'echarts';
 @Component({
   selector: 'ui-chart',
   templateUrl: './chart.component.html',
-  styleUrls: ['./chart.component.css'],
+  styleUrls: ['./chart.component.scss'],
   encapsulation: ViewEncapsulation.Emulated
 })
 export class ChartComponent {
