@@ -1,12 +1,12 @@
 {
   "name": "@solenopsys/ui-charts",
-  "version": "0.0.1",
-  "dependencies": {
-    "echarts": "^5.4.1",
-    "ngx-echarts": "^15.0.1"
+  "version": "0.1.0",
+  "peerDependencies": {
+    "@solenopsys/ui-utils": "0.1.0",
+    "echarts": "^5.4.2",
+    "ngx-echarts": "^16.0.0"
   },
   "scripts": {
-    "test": "node index.js",
-    "build": "etsc -p tsconfig.lib.json"
+    "build": "ng-packagr -p ng-package.json -c ../../../../tsconfig.base.json"
   }
 }

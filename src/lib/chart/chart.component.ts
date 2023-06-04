@@ -1,5 +1,5 @@
 import {Component, Input, ViewEncapsulation} from '@angular/core';
-import {EChartsOption, format} from 'echarts';
+import { EChartsOption } from 'echarts';
 
 @Component({
   selector: 'ui-chart',
