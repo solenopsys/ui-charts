@@ -7,6 +7,6 @@
     "ngx-echarts": "^16.0.0"
   },
   "scripts": {
-    "build": "ng-packagr -p ng-package.json -c ../../../../tsconfig.base.json"
+    "build": "ng-packagr -p ng-package.json -c ../../../../tsconfig.packages.json"
   }
 }
