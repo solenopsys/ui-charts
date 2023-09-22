@@ -1,4 +1,4 @@
-## UIMATRIX Charts Library
+## UIMATRIX Charts Library.
 
 *@solenopsys/ui-charts*
 
